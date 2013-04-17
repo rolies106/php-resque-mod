@@ -14,7 +14,7 @@ This is fork project from [php-resque](https://github.com/chrisboulton/php-resqu
 ## Getting Started ##
 
 ```php
-    require_once 'lib/ResqueAutoloader';
+    require_once 'lib/ResqueAutoloader.php';
     ResqueAutoloader::register();
 
     // Run all Resque classes command
